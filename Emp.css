@@ -1,0 +1,10 @@
+table{
+    border: 2px solid rgb(148, 99, 65);
+    background-color: darkkhaki;
+}
+table td {
+    border: 1px solid rgb(46, 66, 64);
+}
+table th {
+    border: 1px solid rgb(46, 66, 64);
+}
